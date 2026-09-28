@@ -1,0 +1,96 @@
+{
+  "id": "202004-yqgsym",
+  "title": "2020·延庆一模",
+  "year": "2019-2020",
+  "month": 202004,
+  "source": "延庆",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，归纳概括孔子对于“为政”的思想。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 201,
+      "sourcename": "《论语·为政》",
+      "paragraphs": [
+        {
+          "text": "为政以德，譬如北辰，居其所而众星拱之。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 105,
+      "sourcename": "《论语·学而》",
+      "paragraphs": [
+        {
+          "text": "道千乘之国，敬事而信，节用而爱人，使民以时。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 203,
+      "sourcename": "《论语·为政》",
+      "paragraphs": [
+        {
+          "text": "道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格。",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "1. 孔子主张用“德治”来治理国家，是为政的根本原则。执政者要不断地提高自己的道德修养，通过修养道德确立自己的威信，以得到人民的信任与拥护。（统治者若实施德政，老百姓就像众星拱北辰一样拥戴。）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "2. 实施德政的基本方法，惠民爱民。即要求统治者严肃认真地办理国家各方面事务，恪守信用；节约用度，爱护官吏；役使百姓应注意不误农时。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "3. 实施德政的原因，强调以德化民，以礼育人。（用政令去引导，用刑罚去惩罚民众，老百姓可以免于犯罪，但他们却不会感到犯罪是羞耻的；用道德来教化他们，用礼法来约束他们，老百姓不仅懂得做坏事羞耻，还会自觉的遵礼守法走正道。）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "评分要点：1. “德政”是孔子的根本主张；2. 实施“德政”的方法；3. 实施“德政”的原因，以礼育人。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分参考：6 分。每个要点 2 分，意思对即可。如果直接翻译原文，可酌情扣分。",
+      "format": {}
+    }
+  ]
+}
