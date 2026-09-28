@@ -1,0 +1,99 @@
+{
+  "id": "202006-ftgsem",
+  "title": "2020·丰台二模",
+  "year": "2019-2020",
+  "month": 202006,
+  "source": "丰台",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 7,
+  "question": [
+    {
+      "type": "regular",
+      "text": "《论语》记录了孔子弟子与再传弟子间的对话。如《论语‧子张》：",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1903,
+      "sourcename": "《论语‧子张》",
+      "paragraphs": [
+        {
+          "text": "子夏之门人问交于子张。子张曰：“子夏云何？”",
+          "format": {
+            "indent": {
+              "kind": "firstLine",
+              "level": 2
+            }
+          }
+        },
+        {
+          "text": "对曰：“子夏曰：‘可者与之，其不可者拒之。’”",
+          "format": {
+            "indent": {
+              "kind": "firstLine",
+              "level": 2
+            }
+          }
+        },
+        {
+          "text": "子张曰：“异乎吾所闻。君子尊贤而容众，嘉善而矜不能。我之大贤与，于人何所不容？我之不贤与，人将拒我，如之何其拒人也？”",
+          "format": {
+            "indent": {
+              "kind": "firstLine",
+              "level": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "本则短文是围绕什么话题展开对话的？依据材料，简要说明子夏与子张的观念有何不同。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "答案示例：本则短文围绕“交友”（交往）这一话题展开对话。（1 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "子夏（从“自我”品德的高标准）强调交往的对象标准，值得交往的人才能与之交往。（子夏所言“可者”，直接理解就是“值得交往的人”，根据《论语》的基本思想，“值得交往的人”应该理解为道德品行高的人）。（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "子张对交往对象没有选择，主张与所有人都要交往，只是交往态度有所区别；（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "子张还强调了对自身的要求，要努力做一个德才兼备的君子，不断完善自我的德行和才能。（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】“话题”1 分，“不同点”6 分。共 7 分。按点给分，意思对即可。",
+      "format": {}
+    }
+  ]
+}

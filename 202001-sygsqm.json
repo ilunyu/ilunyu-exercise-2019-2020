@@ -1,0 +1,109 @@
+{
+  "id": "202001-sygsqm",
+  "title": "2020·顺义高三期末",
+  "year": "2019-2020",
+  "month": 202001,
+  "source": "顺义",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的选文，回答下面小题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 1531,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“吾尝终日不食，终夜不寝，以思，无益，不如学也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1722,
+      "sourcename": "《论语·阳货》",
+      "paragraphs": [
+        {
+          "text": "子曰：“饱食终日，无所用心，难矣哉！不有博弈①者乎？为之，犹贤②乎已。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：①博，六博，古代一种棋局游戏。弈，围棋。②贤，好。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）下列对这两则文意的理解，正确的一项是",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "A. 孔子认为饱食终日与终日不食都无益。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "B. 孔子主张抓紧一切时间用来思考问题。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "C. 孔子主张抓紧一切时间用来专心学习",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "D. 孔子认为博弈游戏对人有益值得提倡。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）诗人朱自清自己的旧体诗集命名为《犹贤博弈斋诗钞》。请结合第二则语段，谈谈你对朱自清命名诗集用意的理解。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）C",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）作者谦逊地（1 分）表达自己没有饱食终日无所用心（1 分），把自己的旧体诗创作看作比博弈游戏好一点（1 分）。",
+      "format": {}
+    }
+  ]
+}

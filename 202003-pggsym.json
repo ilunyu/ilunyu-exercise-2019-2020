@@ -1,0 +1,136 @@
+{
+  "id": "202003-pggsym",
+  "title": "2020·平谷一模",
+  "year": "2019-2020",
+  "month": 202003,
+  "source": "平谷",
+  "grade": 3,
+  "type": "一模",
+  "number": 13,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "根据要求，完成 13—14 题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1706,
+      "sourcename": "《论语·阳货》",
+      "paragraphs": [
+        {
+          "text": "子张问仁于孔子。孔子曰：“能行五者于天下为仁矣。”“请问之。”曰：“恭、宽、信、敏、惠。恭则不侮，宽则得众，信则人任焉，敏则有功，惠则足以使人。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "13. 《论语》中“能行五者于天下为仁矣”与《过秦论》中“此言劳民之易为仁也”，都提到了“仁”。请结合两篇文章的具体语境，谈谈二者的区别。（4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "14. 下列表述中不属于儒家思想核心“仁”的规范的一项是（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①饭疏食，饮水，曲肱而枕之，乐亦在其中矣。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②己所不欲，勿施于人。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "③居处恭，执事敬，与人忠。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "④桓公九合诸侯，不以兵车，管仲之力也。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "⑤八佾舞于庭，是可忍也，孰不可忍也？",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "⑥博学而笃志，切问而近思。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "A. ①⑤　B. ②③　C. ④⑥　D. ②④",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "13. （4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "《论语》中此处的“仁”，指为人处世的原则，是每个人的个人道德修养。要结合语境分析。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "《过秦论》中的“仁”，是以儒家思想“仁者，爱人”的基本内涵发展而来的“仁政”，是专门对治国理政者提出的治国理念。要结合语境分析。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【区别 2 分，分析 2 分】",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "14.（2 分）A",
+      "format": {}
+    }
+  ]
+}
