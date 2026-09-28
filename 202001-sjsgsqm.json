@@ -1,0 +1,114 @@
+{
+  "id": "202001-sjsgsqm",
+  "title": "2020·石景山高三期末",
+  "year": "2019-2020",
+  "month": 202001,
+  "source": "石景山",
+  "grade": 3,
+  "type": "期末",
+  "number": 12,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 711,
+      "sourcename": "《论语·述而》",
+      "paragraphs": [
+        {
+          "text": "子谓颜渊曰：“用之则行，舍之则藏，惟我与尔有是夫！”子路曰：“子行三军，则谁与？”子曰：“暴虎冯河，死而无悔者，吾不与也。必也临事而惧，好谋而成者也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1723,
+      "sourcename": "《论语·阳货》",
+      "paragraphs": [
+        {
+          "text": "子路曰：“君子尚勇乎？”子曰：“君子义以为上。君子有勇而无义为乱，小人有勇而无义为盗。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1428,
+      "sourcename": "《论语·宪问》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子道者三，我无能焉：仁者不忧，知者不惑，勇者不惧。”子贡曰：“夫子自道也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "①孔子为何说“吾不与也”? 上述文字阐明的孔子主张的“勇”是什么？（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "②勇者何以不惧，有人用孔子答司马牛的“内省不疚”为答案，你同意吗？请说明。（2 分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1204,
+      "sourcename": "《论语·颜渊》",
+      "paragraphs": [
+        {
+          "text": "司马牛问君子。子曰：“君子不忧不惧。”曰：“不忧不惧，斯谓之君子已乎？”子曰：“内省不疚，夫何忧何惧？”",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "①（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "“暴虎冯河,死而无悔”是冒险蛮干，有勇无谋，不可取。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "孔子认为勇与仁、知共为君子的品德，勇以义为前导，要有谋而为。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "答案示例：同意。孔子认为勇是君子应具有的一种品德。“内省不疚”指君子反省平日所为无愧于心，着眼于内在生命的思考，是内修勇德的一种表现，可以做勇者何以不惧的答案。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    }
+  ]
+}

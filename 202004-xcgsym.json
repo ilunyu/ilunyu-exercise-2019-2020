@@ -1,0 +1,93 @@
+{
+  "id": "202004-xcgsym",
+  "title": "2020·西城一模",
+  "year": "2019-2020",
+  "month": 202004,
+  "source": "西城",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 7,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 115,
+      "sourcename": "《论语·学而》",
+      "paragraphs": [
+        {
+          "text": "子贡曰：“贫而无谄，富而无骄，何如？”子曰：“可也；未若贫而乐，富而好礼者也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 115,
+      "sourcename": "《论语·学而》",
+      "paragraphs": [
+        {
+          "text": "子贡曰：“诗云：‘如切如磋，如琢如磨’，其斯之谓与？”子曰：“赐也，始可与言诗已矣，告诸往而知来者。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 515,
+      "sourcename": "《论语·公冶长》",
+      "paragraphs": [
+        {
+          "text": "子贡问曰：“孔文子何以谓之‘文’也？”子曰：“敏而好学，不耻下问，是以谓之‘文’也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 1510,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子贡问为仁。子曰：“工欲善其事，必先利其器。居是邦也，事其大夫之贤者，友其士之仁者。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "从这几则论语来看，孔子在教育中关注哪些方面？选择其中一个方面，谈谈你的认识或看法。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "第一问：（3 分）礼、德、安贫乐道、学习方法、谦虚好学、学以致用。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分标准：一点 1 分，答出其中三点，得 3 分。有其他答案，言之成理亦可。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "第二问：（4 分）围绕一点明确认识，结合材料作分析。可以不拘于此处所提供的句子，但另选句子时应对所选句子作呈现。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分说明：要求有明确认识，能联系《论语》，有简要分析。",
+      "format": {}
+    }
+  ]
+}

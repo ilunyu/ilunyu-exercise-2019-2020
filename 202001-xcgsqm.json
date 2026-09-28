@@ -1,0 +1,109 @@
+{
+  "id": "202001-xcgsqm",
+  "title": "2020·西城高三期末",
+  "year": "2019-2020",
+  "month": 202001,
+  "source": "西城",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，根据要求完成11题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 415,
+      "sourcename": "《论语·里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“参乎！吾道一以贯之。”曾子曰：“唯。”子出。门人问曰：“何谓也？”曾子曰：“夫子之道，忠恕而已矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "“吾道一以贯之”中的“道”，指的是什么？曾子如何解释孔子所说的“道”？结合《论语》中的相关内容，谈谈你对孔子的“道”是怎么理解的。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "答题中可参考以下各句中的部分内容：",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 1201,
+      "sourcename": "《论语・颜渊》",
+      "paragraphs": [
+        {
+          "text": "颜渊问仁。子曰：“克己复礼为仁。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 630,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“……夫仁者，己欲立而立人，己欲达而达人。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1524,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子贡问曰：“有一言而可以终生行之者乎?”子曰：“其恕乎。己所不欲，勿施于人。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 1319,
+      "sourcename": "《论语·子路》",
+      "paragraphs": [
+        {
+          "text": "樊迟问仁。子曰：“居处恭，执事敬，与人忠。虽之夷狄，不可弃也。”",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "第一问：“吾道一以贯之”中的“道”，指“仁（仁道）”。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "第二问：曾子将孔子所说的“道”，解释为“忠”和“恕”。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "第三问：略。（不必拘于曾子所言。要求有明确认识，能联系《论语》，并作简要分析）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分标准：第一问，1 分；第二问，2 分；第三问，3 分。",
+      "format": {}
+    }
+  ]
+}

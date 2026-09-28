@@ -1,0 +1,87 @@
+{
+  "id": "202006-fsgsem",
+  "title": "2020·房山二模",
+  "year": "2019-2020",
+  "month": 202006,
+  "source": "房山",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》（节选）的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 426,
+      "paragraphs": [
+        {
+          "text": "子游曰：“事君数，斯辱矣；朋友数，斯疏矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1223,
+      "paragraphs": [
+        {
+          "text": "子贡问友。子曰：“忠告而善道之，不可则止，毋自辱焉。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）第①则文句中的“数”，有人认为是屡次之意，也有人理解为算计。请你分别按照这两种理解来解释全句的意思。（4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）从上面两则文字可以看出，在为人处世方面，孔子主张遵循怎样的原则？请用 4 字短语回答。（2 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（4 分）答案示例：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "第一种：服事君主太过殷勤，反而会招来羞辱；与朋友交往太过亲密，反而会遭到疏远。（或：“进谏君主过于频繁，就会遭受侮辱；劝告朋友过于频繁，反而会被疏远。”）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "第二种：服事君主时，精于算计，最终只会自取其辱；与朋友交往时，过于计较得失，也会让朋友越来越疏远。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "句意解说合理通畅即可。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "答案示例：适可而止（适度交往，中庸之道）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "意思对即可。",
+      "format": {}
+    }
+  ]
+}

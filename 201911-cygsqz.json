@@ -1,0 +1,81 @@
+{
+  "id": "201911-cygsqz",
+  "title": "2019·朝阳高三期中",
+  "year": "2019-2020",
+  "month": 201911,
+  "source": "朝阳",
+  "grade": 3,
+  "type": "期中",
+  "number": 13,
+  "score": 7,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1534,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子不可小知，而可大受也。小人不可大受，而可小知也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "①　有人认为“知”是“了解，赏识”的意思，也有人认为“知”是“主持，掌管”的意思。请根据这两种不同解释，分别翻译这句话。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②　你认为哪一种翻译符合孔子对君子的认识？请简要解说。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "①　翻译一：君子未必能在小事上获得赏识，却可以承担大事。小人不能承担大事，却有可能在小事上获得赏识。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "翻译二：君子不可以让他做小事，却可以承担大事。小人不能承担大事，却可以让他做小事。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②　第一种解读符合。孔子认为君子最重要的特质是人格品质，看待君子要观其主流、大节，不能要求君子是完人、全人。小事的表现有不足是可以的，但君子可以委以重任，肯定了君子的道德品质，符合孔子对君子看法。",
+      "format": {
+        "indent": {
+          "kind": "hanging",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分参考】①两种翻译各 2 分，② 3 分。言之成理即可。",
+      "format": {}
+    }
+  ]
+}

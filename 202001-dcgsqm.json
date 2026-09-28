@@ -1,0 +1,57 @@
+{
+  "id": "202001-dcgsqm",
+  "title": "2020·东城高三期末",
+  "year": "2019-2020",
+  "month": 202001,
+  "source": "东城",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 4,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1116,
+      "sourcename": "《论语·先进》",
+      "paragraphs": [
+        {
+          "text": "子贡问：“师①与商②也孰贤？”子曰：“师也过，商也不及。”曰：“然则师愈与？”子曰：“过犹不及。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 618,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“质胜文则野，文胜质则史。文质彬彬，然后君子。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：①师：颛孙师，字子张，孔子的学生。②商：卜商，字子夏，孔子的学生。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "两则语录都反映了孔子怎样的思想？请结合其中一则简要说明。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "评分参考：中庸思想 1 分，对“中庸”的解释 1 分，联系材料进行说明 2 分。",
+      "format": {}
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "202005-dcgsym",
+  "title": "2020·东城一模",
+  "year": "2019-2020",
+  "month": 202005,
+  "source": "东城",
+  "grade": 3,
+  "type": "一模",
+  "number": 10,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 1541,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“辞，达而已矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1508,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“可与言而不与之言，失人；不可与言而与之言，失言。知者不失人，亦不失言。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1420,
+      "sourcename": "《论语·宪问》",
+      "paragraphs": [
+        {
+          "text": "子曰：“其言之不怍也，则为之也难。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "请用自己的话分别概括以上三则语录中孔子对言语的看法，并选择其中一则，结合你的言语生活作简要分析。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "看法：第一则：言语能够达意即可；",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "第二则：言语表达要选择恰当的对象；",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "第三则：不能夸夸其谈，要言行一致；",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "分析：略。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评分参考】“看法”概括，3点各1分；言语生活现象1分；分析1分。意思对即可。",
+      "format": {}
+    }
+  ]
+}

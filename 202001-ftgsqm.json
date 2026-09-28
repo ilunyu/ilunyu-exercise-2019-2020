@@ -1,0 +1,200 @@
+{
+  "id": "202001-ftgsqm",
+  "title": "2020·丰台高三期末",
+  "year": "2019-2020",
+  "month": 202001,
+  "source": "丰台",
+  "grade": 3,
+  "type": "期末",
+  "number": 10,
+  "score": 7,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，任选一组，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "A组：",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 103,
+      "sourcename": "《论语·学而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“　　　　，鲜矣仁。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 4,
+                  "end": 8
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1509,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“　　　　，无求生以害仁，有杀身以成仁。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 4,
+                  "end": 8
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "B组：",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 618,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“质胜文则野，文胜质则史，　　　　，然后君子。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 16,
+                  "end": 20
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1323,
+      "sourcename": "《论语·子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子　　　　，小人同而不和。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 6,
+                  "end": 10
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1216,
+      "sourcename": "《论语·颜渊》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子　　　　，不成人之恶；小人反是。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 6,
+                  "end": 10
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "横线处是耳熟能详的成语，请根据原文将其填写完整，并说明该组句子反映了孔子的什么思想。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "A组：①巧言令色　②志士仁人",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "B组：①文质彬彬　②和而不同　③成人之美",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】每处 1 分，错一处扣一分，扣完为止。共 2 分。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "A组：关于“仁”学思想（1 分）。“仁”是一种高尚道德（1 分），为人正直、表里如一（1 分）；“仁”是坚守正义的品格（1 分），为了实现正义的目的，甚至可以牺牲生命（1 分）。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "B组：关于“君子”理想（1 分）。君子应具有平和中庸的品行，文与质统一、表与里统一（1 分）；君子坚守行事原则，不谋私利、不结私党（1 分）；君子能举己达人，成就美好事业。（1 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】“思想概括”1 分，“结合选文具体分析”4 分。按点给分，意思对即可。",
+      "format": {}
+    }
+  ]
+}

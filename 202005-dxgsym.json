@@ -1,0 +1,96 @@
+{
+  "id": "202005-dxgsym",
+  "title": "2020·大兴一模",
+  "year": "2019-2020",
+  "month": 202005,
+  "source": "大兴",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 424,
+      "sourcename": "《论语·里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子讷于言而敏于行。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 422,
+      "sourcename": "《论语·里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“古者言之不出，耻躬之不逮也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1203,
+      "sourcename": "《论语·颜渊》",
+      "paragraphs": [
+        {
+          "text": "司马牛问仁。子曰：“仁者，其言也讱①”。曰：“其言也讱，斯谓之仁已乎？”子曰：“为之难，言之得无讱乎？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注：①讱：说话迟钝",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）根据第一则语录，用自己的话概括孔子在“言”与“行”的关系上的主张。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）请结合第二、三则语录，分析孔子这样主张的原因。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）敏捷于“行”，谨慎于“言”。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）①孔子认为“言”与“行”的关系体现的是一个人的品质。②一个人言语有承诺而行动上不能兑现，是可耻的。③并且认为受人尊敬的仁者说话之所以谨慎，就是顾虑兑现承诺不容易实现。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "第（1）题 1 分，意思对即可，“讷”和“敏”不翻译不得分。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "第（2）题 4 分。共三个要点，答出一点 2 分，两点 3 分，3 点 4 分。",
+      "format": {}
+    }
+  ]
+}

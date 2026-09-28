@@ -1,0 +1,71 @@
+{
+  "id": "201911-hdgsqz",
+  "title": "2019·海淀高三期中",
+  "year": "2019-2020",
+  "month": 201911,
+  "source": "海淀",
+  "grade": 3,
+  "type": "期中",
+  "number": 13,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，概括其体现的孔子对于“乐”的认识。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 303,
+      "sourcename": "《论语·八佾》",
+      "paragraphs": [
+        {
+          "text": "子曰：“人而不仁，如礼何？人而不仁，如乐何？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1412,
+      "sourcename": "《论语·宪问》",
+      "paragraphs": [
+        {
+          "text": "子路问成人。子曰：“若臧武仲之知，公绰之不欲，卞庄子之勇，冉求之艺，文之以礼乐，亦可以为成人矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 325,
+      "sourcename": "《论语·八佾》",
+      "paragraphs": [
+        {
+          "text": "子谓《韶》【1】：“尽美矣，又尽善也。”谓《武》【2】“尽美矣，未尽善也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：【1】《韶》：歌颂舜因文德受到尧禅让的音乐。【2】《武》：歌颂武王灭商功绩的音乐。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "乐要以仁为基础；乐与礼能够起到完善人格的作用；乐要兼具道德性和艺术性。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】每点 2 分。意思对即可。",
+      "format": {}
+    }
+  ]
+}

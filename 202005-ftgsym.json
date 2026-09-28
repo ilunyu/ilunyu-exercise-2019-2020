@@ -1,0 +1,151 @@
+{
+  "id": "202005-ftgsym",
+  "title": "2020·丰台一模",
+  "year": "2019-2020",
+  "month": 202005,
+  "source": "丰台",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 7,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 601,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“雍【1】也可使南面。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 602,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "仲弓问子桑伯子。子曰：“可也，简。”仲弓曰：“居【2】敬而行简，以临其民，不亦可乎？居简而行简，无乃大简乎？”子曰：“雍之言然。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1202,
+      "sourcename": "《论语·颜渊》",
+      "paragraphs": [
+        {
+          "text": "仲弓问仁。子曰：“出门如见大宾，使民如承大祭；己所不欲，勿施于人；在邦无怨，在家无怨。”仲弓曰：“雍虽不敏，请事斯语矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：【1】雍：冉雍，字仲弓。【2】居：居心，存心。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）孔子评价子桑伯子时所说的“简”，其具体内涵是什么？请结合语境加以解说。（4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合以上三则材料，说明仲弓是怎样的人。（3 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（4分）【答案示例】",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "示例一：简，简要。（1 分）可：可以，好。这里表达一种肯定语气。孔子肯定了子桑伯子居心与治政都简要的处事方式，对子桑伯子处理政务简要而不繁琐的治政能力深为赞赏。（2 分）体现了孔子处理政务要简要的治政理念。（1 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "示例二：简，简要。（1 分）可：还可以，不坏，还过得去。孔子对子桑伯子居心与治政都简要的处事方式持保留态度，（2 分）体现出孔子重视对职业心存敬畏而又要简要行事的治政思想。（1 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】4分。“词义理解”2分，“内涵理解”2分。按点给分，意思对即可。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（3 分）【答案示例】",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "要点一：有为官才德。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "要点二：敬业而善于处理政务。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "要点三：勤学好问。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "要点四：追求自我完善。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】3分。每个要点1分，答满3点即给满分。意思对即可。",
+      "format": {}
+    }
+  ]
+}

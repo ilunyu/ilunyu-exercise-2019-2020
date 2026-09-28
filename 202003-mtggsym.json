@@ -1,0 +1,126 @@
+{
+  "id": "202003-mtggsym",
+  "title": "2020·门头沟一模",
+  "year": "2019-2020",
+  "month": 202003,
+  "source": "门头沟",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 8,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面三段文字，根据要求完成第 11 题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 618,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“质胜文则野，文胜质则史，文质彬彬，然后君子。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1208,
+      "sourcename": "《论语·颜渊》",
+      "paragraphs": [
+        {
+          "text": "棘子成曰：“君子质而已矣，何以文为？”子贡曰：“惜乎，夫子之说君子也！驷不及舌。文犹质也，质犹文也。虎豹之鞟犹犬羊之鞟。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": -1,
+      "sourcename": "刘勰《文心雕龙·情采》",
+      "paragraphs": [
+        {
+          "text": "圣贤书辞，总称文章，非采而何？夫水性虚而沦漪结，木体实而花萼振，文附质也。虎豹无文，则鞟同犬羊；犀兕有皮，而色资丹漆，质待文也。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）上述《论语》选段和《文心雕龙·情采》中的“文”“质”各指什么？（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）比较二者在“文”“质”关系上观点的异同。（6 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "《论语》中的“文”是文采与文饰，“质”为质朴；",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "《文心雕龙·情采》中的“文”与“质”指文学作品的形式与内容。（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "相同：都认为“文”与“质”应该是辩证统一的。孔子和子贡都认为文质兼备，方为君子；刘勰认为文依附于质，质也依赖于文。（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "不同：《论语》侧重在文化教养和道德品质层面。孔子与子贡认为君子应该既讲究文采等外在修饰，又有内在的仁德，内外兼修，缺一不可。（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "刘勰将孔子“质”与“文”的观念援引至文学，表达为“情”“采”，用来阐释文学作品的内容与形式的关系，形式与内容互为依存，密不可分。（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    }
+  ]
+}

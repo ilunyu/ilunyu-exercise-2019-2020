@@ -1,0 +1,71 @@
+{
+  "id": "202006-mtggsem",
+  "title": "2020·门头沟二模",
+  "year": "2019-2020",
+  "month": 202006,
+  "source": "门头沟",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料（1）",
+      "sourceid": 212,
+      "sourcename": "《论语·为政》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子不器。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料（2）",
+      "sourceid": 1304,
+      "sourcename": "《论语·子路》",
+      "paragraphs": [
+        {
+          "text": "樊迟请学稼。子曰：“吾不如老农。”请学为圃。曰：“吾不如老圃。”樊迟出。子曰：“小人哉，樊须也！上好礼，则民莫敢不敬；上好义，则民莫敢不服；上好信，则民莫敢不用情。夫如是，则四方之民襁负其子而至矣，焉用稼？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料（3）",
+      "sourceid": 1423,
+      "sourcename": "《论语·宪问》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子上达，小人下达。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "以上几则论语都体现了孔子“君子不器”的思想，请结合具体文句，并联系实际，谈谈你对这一思想的理解。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "“君子不器”的意思是，君子不会把自己局限于掌握某种技能、具有某种功用上，不要把实用和功利性的价值追求作为最终目的；而应该博学通览，全面发展；应该“志于道”，讲道义，有信仰，拥有开阔的视角和正确的价值观，具有崇高的境界。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "结合具体文句和实际分析。（3分）",
+      "format": {}
+    }
+  ]
+}
